@@ -564,6 +564,12 @@ label.error{
   margin-left: 0.32em;
 }
 
+.section-subtitle {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  margin-top: 1em;
+}
+
 .fade-title-left,
 .fade-title-right{
   font-family: 'Montserrat', sans-serif;
