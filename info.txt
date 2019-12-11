@@ -1,0 +1,6 @@
+
+
+
+projects.html renamed to current
+project.html renamed to sold
+
