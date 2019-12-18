@@ -2285,8 +2285,12 @@ img.mfp-img{
 }
 
 .contact-info-content{
-  padding: 5.5em 5.6em;
-  background-color:rgba(197,164,125, 0.95);
+  padding: 5.5em 5em;
+  background-color: rgba(193, 159, 117, 0.95);
+}
+
+.contact-info-content a{
+  color: #fff;
 }
 
 .contact-info-title{
