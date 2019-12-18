@@ -1575,6 +1575,24 @@ label.error{
   transform:scale(1);
 }
 
+.current-properties .projects .entry .entry-text {
+  font-size: 1.2em;
+}
+
+.current-properties .projects .address-telephone {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.current-properties .projects .entry .entry-text strong {
+  line-height: 3em;
+}
+
+.current-properties .projects .entry .entry-text ul {
+    list-style: circle;
+    padding-left: 50px;
+    margin-bottom: 25px;
+}
 
 
 /* 5.1 Carousel */
