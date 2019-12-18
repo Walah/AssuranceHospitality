@@ -1264,6 +1264,7 @@ label.error{
 .entry-text{
   font-size: 1.6em;
   line-height: 1.6;
+  text-align: justify;
 }
 
 .about .fade-title-left{
